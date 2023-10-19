@@ -10,7 +10,7 @@ The following is a [list of required tasks](./task-list.md) that have been compl
 - [Features](#features)
 - [Prerequisites](#prerequisites)
 - [Getting Started](#getting-started)
-- [Usage](#usage)
+- [Folder Structure](#folder-structure)
 
 ### Features
 - Blog post list and Search users
