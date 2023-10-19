@@ -35,9 +35,9 @@ To start a project, there are several steps that must be taken
 - Next, you can run it `npm run dev`
 - Finally, open the browser and the project will run on port `http://localhost:3000` or `localhost:3001` if you currently have a project running on port `3000` 
 
-### folder sturcture
+### Folder Structure
 ```javascript
-Next JS Folder Structure
+Blog Post Folder Structure
 
 ├── public
 |     └── favicon.ico
